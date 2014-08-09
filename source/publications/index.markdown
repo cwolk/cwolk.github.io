@@ -20,9 +20,11 @@ footer: true
 - Kortmann, B. and Wolk, C. (2013). Morphosyntactic variation in the anglophone world: A global perspective. In Kortmann, B. and Lunkenheimer, K., editors, *The Mouton World Atlas of Variation in English*, pages 906–936. Mouton de Gruyter, Berlin
 - Wolk, C., Bresnan, J., Rosenbach, A., and Szmrecsanyi, B. (2013). Dative and genitive variability in Late Modern English: Exploring cross-constructional variation and change. *Diachronica*, 33(3)
 
+### 2014
+- Ehret, K., Wolk, C., and Szmrecsanyi, B. (2014). Quirky quadratures: on weight and rhythm as constraints in the genitive alternation. English Language and Linguistics, 18(02). special issue “Genitive variation in English”, edited by John Payne and Eva Berlage
+
 ###  Forthcoming
 - Szmrecsanyi, B., Rosenbach, A., Bresnan, J., and Wolk, C. (submitted). Culturally conditioned language change? Genitive constructions in Late Modern English. In Hundt, M., editor, *The Syntax of Late Modern English.* CUP, Cambridge
-- Ehret, K., Wolk, C., and Szmrecsanyi, B. (submitted). Quirky quadratures: on weight and rhythm as constraints in the genitive alternation. submitted to special issue of *English Language and Linguistics* edited by John Payne and Eva Berlage
 
 ## Refereed Talks and Posters
 
@@ -32,4 +34,5 @@ footer: true
 - Ehret, K., Wolk, C., and Szmrecsanyi, B. (2011). Genitive variation in Late Modern English: focus on weight and rhythm. Talk held at the 2nd Triannual Conference of the International Society for the Linguistics of English (ISLE-2), Boston, MA, June 17-21
 
 ### Forthcoming
+- Szmrecsanyi, B. and Wolk, C. (2014). Corpus-based dialectometry: why and how. Methods in Dialectology XV, Groningen
 - Wolk, C. Bottom-up Dialectometry. ISLE 2014, Zurich
